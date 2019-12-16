@@ -1,3 +1,3 @@
-`yarn install`
-`yarn build-storybook`
-`yarn storybook`
+- `yarn install`
+- `yarn build-storybook`
+- `yarn storybook`
