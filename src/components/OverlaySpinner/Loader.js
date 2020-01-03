@@ -2,21 +2,21 @@ import * as React from "react";
 
 const styles = {
   text: {
-    marginTop: 52,
-    color: "#888",
-    marginLeft: 6
+    marginTop: 70,
+    color: '#000',
+    marginLeft: 16,
   },
   spinner: {
-    backgroundColor: "rgba(210, 210, 210, 0.7)",
-    width: "100%",
-    height: "100%",
+    backgroundColor: 'rgba(100, 100, 100, 0.5',
+    width: '100%',
+    height: '100%',
     top: 0,
     left: 0,
     zIndex: 1000,
-    display: "flex",
-    alignItems: "center",
-    justifyContent: "center"
-  }
+    display: 'flex',
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
 };
 
 const Loader = ({
