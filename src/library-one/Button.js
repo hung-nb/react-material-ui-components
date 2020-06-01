@@ -8,8 +8,7 @@ const StyledDiv = styled.div`
     align-items: center;
     justify-content: center;
     letter-spacing: 0.05rem;
-    ${'' /* border-color: #8eb61e; */}
-    border: 1px solid transparent;
+    border: 1px solid #dddddd;
     border-radius: 0.25rem;
     background-color: #eee;
     color: #191919;
