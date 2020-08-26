@@ -19,7 +19,7 @@
     "@material-ui/icons": "^4.5.1",
     "@material-ui/pickers": "^3.2.7",
     "@material-ui/styles": "^4.6.0",
-    "@storybook/react": "^5.3.19",
+    "@storybook/react": "^6.0.18",
     "babel-loader": "^8.1.0",
     "google-maps-react": "^2.0.2",
     "html-loader": "^1.1.0",
